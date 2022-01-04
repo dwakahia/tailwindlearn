@@ -436,12 +436,17 @@ Ensure the default browser behavior of the `hidden` attribute.
   border-color: rgb(229 231 235 / var(--tw-border-opacity));
 }
 
-.absolute{
-  position: absolute;
+.embedded-video{
+  position: relative;
+  height: 0px;
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
+  padding-bottom: 56.25%;
 }
 
-.relative{
-  position: relative;
+.absolute{
+  position: absolute;
 }
 
 .top-0{
@@ -465,14 +470,14 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-bottom: 2.5rem;
 }
 
-.mx-auto{
-  margin-left: auto;
-  margin-right: auto;
-}
-
 .my-5{
   margin-top: 1.25rem;
   margin-bottom: 1.25rem;
+}
+
+.mx-auto{
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .mb-6{
@@ -511,16 +516,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   height: auto;
 }
 
-.h-0{
-  height: 0px;
-}
-
 .w-full{
   width: 100%;
-}
-
-.max-w-full{
-  max-width: 100%;
 }
 
 .appearance-none{
@@ -547,10 +544,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .gap-y-5{
   row-gap: 1.25rem;
-}
-
-.overflow-hidden{
-  overflow: hidden;
 }
 
 .rounded-lg{
