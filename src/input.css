@@ -8,9 +8,8 @@
 @tailwind utilities;
 
 @layer components {
-   .embedded-video{
-       @apply relative h-0 overflow-hidden max-w-full w-full;
-       padding-bottom: 56.25%
-   }
+  .embedded-video{
+    @apply relative h-0 overflow-hidden max-w-full w-full;
+    padding-bottom: 56.25%
+  }
 }
-

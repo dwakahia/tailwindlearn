@@ -1,2 +1,2 @@
 <?php
-include_once("src/index.html");
+include_once("./build/index.html");
