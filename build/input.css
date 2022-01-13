@@ -13,7 +13,7 @@
  * Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  */
-@font-face{font-family:"Font Awesome 5 Free";font-style:normal;font-weight:400;font-display:block;src:url(77206a6bb316fa0aded5.eot);src:url(77206a6bb316fa0aded5.eot?#iefix) format("embedded-opentype"),url(7a3337626410ca2f4071.woff2) format("woff2"),url(bb58e57c48a3e911f15f.woff) format("woff"),url(491974d108fe4002b2aa.ttf) format("truetype"),url(75334903bdb7ac8c4d22.svg#fontawesome) format("svg")}.far{font-family:"Font Awesome 5 Free";font-weight:400}
+@font-face{font-family:"Font Awesome 5 Free";font-style:normal;font-weight:400;font-display:block;src:url(77206a6bb316fa0aded5.eot);src:url(77206a6bb316fa0aded5.eot?#iefix) format("embedded-opentype"),url(7a3337626410ca2f4071.woff2) format("woff2"),url(bb58e57c48a3e911f15f.woff) format("woff"),url(491974d108fe4002b2aa.ttf) format("truetype"),url(4689f52cc96215721344.svg#fontawesome) format("svg")}.far{font-family:"Font Awesome 5 Free";font-weight:400}
 /*!****************************************************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/@fortawesome/fontawesome-free/css/solid.min.css ***!
   \****************************************************************************************************************/
@@ -21,7 +21,7 @@
  * Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  */
-@font-face{font-family:"Font Awesome 5 Free";font-style:normal;font-weight:900;font-display:block;src:url(9bbb245e67a133f6e486.eot);src:url(9bbb245e67a133f6e486.eot?#iefix) format("embedded-opentype"),url(1551f4f60c37af51121f.woff2) format("woff2"),url(eeccf4f66002c6f2ba24.woff) format("woff"),url(be9ee23c0c6390141475.ttf) format("truetype"),url(10e32dafa604173e9a78.svg#fontawesome) format("svg")}.fa,.fas{font-family:"Font Awesome 5 Free";font-weight:900}
+@font-face{font-family:"Font Awesome 5 Free";font-style:normal;font-weight:900;font-display:block;src:url(9bbb245e67a133f6e486.eot);src:url(9bbb245e67a133f6e486.eot?#iefix) format("embedded-opentype"),url(1551f4f60c37af51121f.woff2) format("woff2"),url(eeccf4f66002c6f2ba24.woff) format("woff"),url(be9ee23c0c6390141475.ttf) format("truetype"),url(7a8b4f130182d19a2d7c.svg#fontawesome) format("svg")}.fa,.fas{font-family:"Font Awesome 5 Free";font-weight:900}
 /*!*****************************************************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/@fortawesome/fontawesome-free/css/brands.min.css ***!
   \*****************************************************************************************************************/
@@ -29,7 +29,7 @@
  * Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  */
-@font-face{font-family:"Font Awesome 5 Brands";font-style:normal;font-weight:400;font-display:block;src:url(23f19bb08961f37aaf69.eot);src:url(23f19bb08961f37aaf69.eot?#iefix) format("embedded-opentype"),url(d878b0a6a1144760244f.woff2) format("woff2"),url(2285773e6b4b172f07d9.woff) format("woff"),url(527940b104eb2ea366c8.ttf) format("truetype"),url(27580371fe5db8cd1319.svg#fontawesome) format("svg")}.fab{font-family:"Font Awesome 5 Brands";font-weight:400}
+@font-face{font-family:"Font Awesome 5 Brands";font-style:normal;font-weight:400;font-display:block;src:url(23f19bb08961f37aaf69.eot);src:url(23f19bb08961f37aaf69.eot?#iefix) format("embedded-opentype"),url(d878b0a6a1144760244f.woff2) format("woff2"),url(2285773e6b4b172f07d9.woff) format("woff"),url(527940b104eb2ea366c8.ttf) format("truetype"),url(2f517e09eb2ca6650ff5.svg#fontawesome) format("svg")}.fab{font-family:"Font Awesome 5 Brands";font-weight:400}
 /*!***********************************************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./src/input.css ***!
   \***********************************************************************************************************/

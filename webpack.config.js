@@ -8,7 +8,7 @@ module.exports = {
     watch: false,
     entry: {index: path.resolve(__dirname, "src", "index.js")},
     devServer: {
-        static: './src',
+        static: './build',
         hot: true
     },
     output: {
@@ -23,14 +23,16 @@ module.exports = {
                     "postcss-loader"]
             },
             {
-                test: /\.(png|jp(e*)g|svg)$/,
-                use: [{
-                    loader: 'url-loader',
-                    options: {
-                        limit: 8000, // Convert images < 8kb to base64 strings
-                        name: 'images/[hash]-[name].[ext]'
+                test: /\.(gif|png|jpe?g)$/,
+                use: [
+                    {
+                        loader: 'file-loader',
+                        options: {
+                            name: '[name].[ext]',
+                            outputPath: 'images/'
+                        }
                     }
-                }]
+                ]
             }
         ]
     },
